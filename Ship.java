@@ -11,6 +11,8 @@ public class Ship
 	private double height;
 	private double speedX;
 	private double speedY;
+	
+	//What's this? -Linna
 
 	public Ship(double x, double d, double w, double h)
 	{
